@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashmita Singh</h1>
 <h3 align="center">A Software Engineer with an inclination towards Front-End development.</h3>
 
-- 🔭 I’m currently working as a **Software Engineer with an experience of 1.9 years in the information & services industry.**
+- 🔭 I’m currently working as a **Software Engineer with an experience of 2 years in the information & services industry.**
 
 - 💬 Ask me about **JavaScript, React, Redux, Context API, HTML, CSS, Tailwind CSS, Typescript, MySQL, MS SQL Server, Firebase, Sanity CMS**
 
